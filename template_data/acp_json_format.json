@@ -1,0 +1,63 @@
+{
+    "cardiologist_policy": {
+        "all": [
+            {"attr": "profession", "value": "Doctor"},
+            {"attr": "specialization", "value": "Cardiology"},
+            {"attr": "board_certified", "value": "Yes"},
+            {"attr": "hospital", "value": "City Hospital"},
+            {"attr": "years_of_experience", "value": {"gte": 10}},
+            {"attr": "licenses", "value": "State Medical License"},
+            {"attr": "work_schedule", "value": "Mon-Fri"},
+            {"attr": "access_level", "value": "High"},
+            {"attr": "department", "value": "Cardiology"},
+            {"attr": "research_interests", "value": "Heart Disease"},
+            {"attr": "languages_spoken", "value": {"contains": "English"}}
+        ]
+    },
+    "oncologist_policy": {
+        "all": [
+            {"attr": "profession", "value": "Doctor"},
+            {"attr": "specialization", "value": "Oncology"},
+            {"attr": "board_certified", "value": "Yes"},
+            {"attr": "hospital", "value": "General Hospital"},
+            {"attr": "years_of_experience", "value": {"gte": 5}},
+            {"attr": "licenses", "value": "State Medical License"},
+            {"attr": "work_schedule", "value": "Mon-Fri"},
+            {"attr": "access_level", "value": "Medium"},
+            {"attr": "department", "value": "Oncology"},
+            {"attr": "research_interests", "value": "Cancer Treatment"},
+            {"attr": "languages_spoken", "value": {"contains": "English"}}
+        ]
+    },
+    "gp_policy": {
+        "all": [
+            {"attr": "profession", "value": "Doctor"},
+            {"attr": "specialization", "value": "General Practice"},
+            {"attr": "board_certified", "value": "Yes"},
+            {"attr": "hospital", "value": "Community Clinic"},
+            {"attr": "years_of_experience", "value": {"gte": 15}},
+            {"attr": "licenses", "value": "State Medical License"},
+            {"attr": "work_schedule", "value": "Mon-Fri"},
+            {"attr": "access_level", "value": "Medium"},
+            {"attr": "department", "value": "General Medicine"},
+            {"attr": "research_interests", "value": "Preventive Medicine"},
+            {"attr": "languages_spoken", "value": {"contains": "English"}}
+        ]
+    },
+    "nurse_policy": {
+        "all": [
+            {"attr": "profession", "value": "Nurse"},
+            {"attr": "specialization", "value": "General Care"},
+            {"attr": "board_certified", "value": "Yes"},
+            {"attr": "hospital", "value": "City Hospital"},
+            {"attr": "years_of_experience", "value": {"gte": 3}},
+            {"attr": "licenses", "value": "State Nursing License"},
+            {"attr": "work_schedule", "value": "Shift Work"},
+            {"attr": "access_level", "value": "Low"},
+            {"attr": "department", "value": "Nursing"},
+            {"attr": "skills", "value": "Patient Care"},
+            {"attr": "languages_spoken", "value": {"contains": "English"}}
+        ]
+    } 
+}
+  

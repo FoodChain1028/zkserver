@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {"name": "profession", "value": "Nurse"},
+      {"name": "specialization", "value": "General Care"},
+      {"name": "years_of_experience", "value": "5"},
+      {"name": "hospital", "value": "City Hospital"},
+      {"name": "nursing_degree", "value": "BSN"},
+      {"name": "board_certified", "value": "Yes"},
+      {"name": "licenses", "value": "State Nursing License"},
+      {"name": "skills", "value": "Patient Care, IV Insertion"},
+      {"name": "languages_spoken", "value": "English"},
+      {"name": "work_schedule", "value": "Shift Work"},
+      {"name": "patient_reviews", "value": "4.5"}
+    ]
+}
+  

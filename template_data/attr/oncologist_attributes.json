@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {"name": "profession", "value": "Doctor"},
+      {"name": "specialization", "value": "Oncology"},
+      {"name": "years_of_experience", "value": "10"},
+      {"name": "hospital", "value": "General Hospital"},
+      {"name": "medical_degree", "value": "MD"},
+      {"name": "board_certified", "value": "Yes"},
+      {"name": "licenses", "value": "State Medical License"},
+      {"name": "research_interests", "value": "Cancer Treatment"},
+      {"name": "languages_spoken", "value": "English, French"},
+      {"name": "work_schedule", "value": "Mon-Fri, 8am-4pm"},
+      {"name": "patient_reviews", "value": "4.6"}
+    ]
+}
+  

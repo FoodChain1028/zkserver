@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {"name": "profession", "value": "Doctor"},
+      {"name": "specialization", "value": "Cardiology"},
+      {"name": "years_of_experience", "value": "15"},
+      {"name": "hospital", "value": "City Hospital"},
+      {"name": "medical_degree", "value": "MD"},
+      {"name": "board_certified", "value": "Yes"},
+      {"name": "licenses", "value": "State Medical License"},
+      {"name": "research_interests", "value": "Heart Disease"},
+      {"name": "languages_spoken", "value": "English, Spanish"},
+      {"name": "work_schedule", "value": "Mon-Fri, 9am-5pm"},
+      {"name": "patient_reviews", "value": "4.8"}
+    ]
+}
+  

@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {"name": "profession", "value": "Doctor"},
+      {"name": "specialization", "value": "General Practice"},
+      {"name": "years_of_experience", "value": "20"},
+      {"name": "hospital", "value": "Community Clinic"},
+      {"name": "medical_degree", "value": "MD"},
+      {"name": "board_certified", "value": "Yes"},
+      {"name": "licenses", "value": "State Medical License"},
+      {"name": "research_interests", "value": "Preventive Medicine"},
+      {"name": "languages_spoken", "value": "English, German"},
+      {"name": "work_schedule", "value": "Mon-Fri, 10am-6pm"},
+      {"name": "patient_reviews", "value": "4.7"}
+    ]
+}
+  
